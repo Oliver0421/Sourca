@@ -29,7 +29,7 @@ const translations = {
         contact_email: "E-post",
         contact_message: "Meddelande",
         contact_button: "Skicka meddelande",
-        footer_trust1: "SOURCA AB | Org.nr: XX-XXXXXX",
+        footer_trust1: "SOURCA AB | Org.nr: 55-68634306",
         footer_trust2: "Moms: SE-XX-XXXXXX",
         footer_trust3: "Vitmossvägen 27, 138 36 Älta",
         footer_contact: "Telefon: +46 70 XXX XXX XX",
@@ -65,7 +65,7 @@ const translations = {
         contact_email: "Email",
         contact_message: "Message",
         contact_button: "Send Message",
-        footer_trust1: "SOURCA AB | Org. Nr: XX-XXXXXX",
+        footer_trust1: "SOURCA AB | Org. Nr: 55-68634306",
         footer_trust2: "VAT: SE-XX-XXXXXX",
         footer_trust3: "Vitmossvägen 27, 138 36 Älta",
         footer_contact: "Phone: +46 70 XXX XXX XX",
@@ -153,4 +153,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 
 // Sätt grundspråk vid start
-updateLanguage('en');
+updateLanguage('sv');
