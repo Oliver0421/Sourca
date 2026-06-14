@@ -108,7 +108,7 @@ nav {
 }
 
 .logo {
-    font-weight: 700;
+    font-weight: 900;
     font-size: 1.4rem;
     letter-spacing: -0.03em;
     color: var(--accent);
@@ -123,7 +123,7 @@ nav {
 .nav-links a {
     color: var(--text-muted);
     font-size: 0.95rem;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .nav-links a:hover { color: var(--text); }
