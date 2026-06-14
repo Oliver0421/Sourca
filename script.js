@@ -153,4 +153,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 
 // Sätt grundspråk vid start
-updateLanguage('sv');
+updateLanguage('en');
