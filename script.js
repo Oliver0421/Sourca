@@ -34,7 +34,7 @@ const translations = {
         footer_trust3: "Vitmossvägen 27, 138 36 Älta",
         footer_contact: "Telefon: +46 70 XXX XXX XX",
         footer_email: "E-post: christian@sourca.se",
-        footer_copyright: "© 2025 Sourca AB. Alla rättigheter reserverade."
+        footer_copyright: "© 2026 Sourca AB. Alla rättigheter reserverade."
     },
     en: {
         nav_about: "About",
@@ -70,7 +70,7 @@ const translations = {
         footer_trust3: "Vitmossvägen 27, 138 36 Älta",
         footer_contact: "Phone: +46 70 XXX XXX XX",
         footer_email: "Email: christian@sourca.se",
-        footer_copyright: "© 2025 Sourca AB. All rights reserved."
+        footer_copyright: "© 2026 Sourca AB. All rights reserved."
     }
 };
 
